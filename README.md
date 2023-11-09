@@ -1,16 +1,10 @@
 # sqlite_flutter
 
-A new Flutter project.
+Creado por Fidel Peguero 2021-0620
 
-## Getting Started
+## Demostracion
+![animation](https://github.com/fideldavid11/bd_flutter/assets/113791442/4fbf3d5a-2633-4540-b312-bef656347760)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
